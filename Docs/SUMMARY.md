@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Schedule Automation](Home.md)
+* [Schedule Automation](README.md)
 * [Project Overview](project-overview..md)
 * [Use Cases](use-cases.md)
 * [UI Design](UI-Design.md)
