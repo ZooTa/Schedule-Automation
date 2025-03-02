@@ -25,4 +25,4 @@ We welcome your feedback and questions! Here’s how you can reach us:
 Role: Developer\
 Email: [yousifalsyad187@gmail.com](mailto:yousifalsyad187@gmail.com)
 
-<div align="left"><figure><img src="../.gitbook/assets/yousif.jpg" alt="" width="160"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src=".gitbook/assets/yousif.jpg" alt="" width="160"><figcaption></figcaption></figure></div>
