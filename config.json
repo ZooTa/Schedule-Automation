@@ -1,0 +1,30 @@
+{
+    "file_path": "sheet.csv",
+    "output_directory": "schedules",
+    "width_ratio": 2.6,
+    "height_ratio": 0.65,
+    "alias_mapping": {
+        "Center_Governorate": ["center governorate", "governorate"],
+        "Center_Name": ["center", "center_name", "centre", "center name"],
+        "Bootcamp_Week": ["bootcamp week", "week"],
+        "Time": ["time", "session time"],
+        "Room": ["room", "room number"],
+        "Session_Level": ["session level", "level"],
+        "Session_Code": ["session code", "code"],
+        "Instructor_Name": ["instructor", "name of instructor"],
+        "Phone_Number": ["phone", "contact number", "mobile", "phone number"],
+        "Email": ["email address", "e-mail", "mail", "email"]
+    },
+    "desired_columns": [
+        "Center_Name",
+        "Day/Date",
+        "Time",
+        "Room",
+        "Session_Level",
+        "Session_Code",
+        "Instructor_Name",
+        "Phone_Number",
+        "Email"
+    ],
+    "message" : "Hello Mr. {name},\nHope you are doing great! This is your schedule for our next sessions."
+}
