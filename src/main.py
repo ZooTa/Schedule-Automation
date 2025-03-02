@@ -10,7 +10,7 @@ def load_config(config_file):
 
 def main():
     # Load configuration
-    config = load_config('config.json')
+    config = load_config('../config/config.json')
 
     # Load data from the specified file
     df = load_data(config['file_path'])
